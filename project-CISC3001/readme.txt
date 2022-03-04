@@ -1,0 +1,1 @@
+there are two folders, one is for chatroom, the other is for file transfer.
